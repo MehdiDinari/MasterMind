@@ -50,7 +50,8 @@ Ensure you have Python installed on your system.
 7. If you find the correct code, you win! Otherwise, the game reveals the code when attempts run out.
 
 ## 🖼️ Screenshots
-_(Add screenshots of your game interface here)_
+![image](https://github.com/user-attachments/assets/b1dc5f0b-c7db-4067-bbf9-51083daf04cf)
+
 
 ## 🚀 Future Enhancements
 - Difficulty levels (adjustable code length & colors)
